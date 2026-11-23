@@ -1,0 +1,37 @@
+---
+type: paper
+title: "Verbalizable Representations Form a Global Workspace in Language Models"
+authors: "Anthropic"
+year: 2026
+venue: ""
+url: "https://transformer-circuits.pub/2026/workspace/index.html"
+topics: [mech-interp]
+tags: [j-space, global-workspace]
+status: reading
+date: 2026-07-18
+builds_on: []
+my_rating:
+source_post: https://letter-night.tistory.com/1415
+migration: stub
+migrated: 2026-11-23
+---
+
+# Verbalizable Representations Form a Global Workspace in Language Models
+
+**기존 글**
+- [A global workspace in language models](https://letter-night.tistory.com/1415) (2026-07-18)
+
+> 원문 글에 본인 리뷰가 있으면 "나의 리뷰"로 옮기고, 논문 발췌 위주라면 요약을 새로 작성하세요.
+
+## 한 줄 요약
+
+## 핵심 내용
+
+## 나의 리뷰
+
+
+## 열린 질문 / 한계
+
+## 연결
+
+## 에이전트 노트

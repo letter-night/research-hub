@@ -1,0 +1,37 @@
+---
+type: paper
+title: "Bayesian Structure Learning with Generative Flow Networks (DAG-GFlowNet)"
+authors: "Deleu et al."
+year: 2022
+venue: "UAI 2022"
+url: ""
+topics: [causality]
+tags: [bayesian-structure-learning, gflownet]
+status: read
+date: 2025-12-25
+builds_on: []
+my_rating:
+source_post: https://letter-night.tistory.com/1154
+migration: stub
+migrated: 2026-11-23
+---
+
+# Bayesian Structure Learning with Generative Flow Networks (DAG-GFlowNet)
+
+**기존 글**
+- [[DAG-GFlowNet] Bayesian Structure Learning with Generative Flow Networks](https://letter-night.tistory.com/1154) (2025-12-25)
+
+> 원문 글에 본인 리뷰가 있으면 "나의 리뷰"로 옮기고, 논문 발췌 위주라면 요약을 새로 작성하세요.
+
+## 한 줄 요약
+
+## 핵심 내용
+
+## 나의 리뷰
+
+
+## 열린 질문 / 한계
+
+## 연결
+
+## 에이전트 노트
